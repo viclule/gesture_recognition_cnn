@@ -1,0 +1,4 @@
+*.png
+*.bin
+*/.ipynb_checkpoints
+*.ipynb_checkpoints/
